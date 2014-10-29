@@ -1,0 +1,2 @@
+tagPageAsTermsOfUse-wordpress
+=============================

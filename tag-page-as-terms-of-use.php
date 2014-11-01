@@ -11,7 +11,7 @@ Domain Path: /languages
 License: GNU GPL v2.0
 */
 
-const TERMS_OF_USE_META_KEY = '_tag_page_as_terms_of_use';
+define("TERMS_OF_USE_META_KEY", "_tag_page_as_terms_of_use");
 
 add_action('add_meta_boxes','add_tag_page_as_terms_of_use_metaboxes');
 function add_tag_page_as_terms_of_use_metaboxes()

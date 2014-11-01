@@ -31,7 +31,7 @@ Now you can:
 
 ![English](https://raw.github.com/ludovicroland/tagPageAsTermsOfUse-wordpress/master/screenshot-2.jpg)
 
-== Changelog ==
+##Changelog
 
-= 0.1 =
+###0.1
 * first version

@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tag Page As Terms Of Use 0.1\n"
+"Report-Msgid-Bugs-To: https://github.com/ludovicroland/tagPageAsTermsOfUse-"
+"wordpress/issues\n"
+"POT-Creation-Date: 2014-11-01 14:24:50+00:00\n"
+"PO-Revision-Date: 2014-11-01 14:28+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language-Team: Ludovic ROLAND <contact@rolandl.fr>\n"
+"Last-Translator: Ludovic ROLAND <contact@rolandl.fr>\n"
+"X-Generator: Poedit 1.6.10\n"
+"Language: fr\n"
+
+#: ../tag-page-as-terms-of-use.php:19
+msgid "Terms of use"
+msgstr "Mentions légales"
+
+#: ../tag-page-as-terms-of-use.php:32
+msgid "Use this page as a Terms of use page"
+msgstr "Utiliser cette page pour les mentions légales"

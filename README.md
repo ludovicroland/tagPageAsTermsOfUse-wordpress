@@ -1,11 +1,10 @@
 #Tag Page As Terms Of Use
 
-Contributors: ludovicroland
-Tags: terms of use
-Requires at least: 4.0
-Tested up to: 4.0
-Stable tag: 0.1
-License: GNU GPL v2.0
+Contributors: ludovicroland ([http://www.rolandl.fr](http://www.rolandl.fr))<br/>
+Requires at least: 4.0<br/>
+Tested up to: 4.0<br/>
+Stable tag: 0.1<br/>
+License: GNU GPL v2.0<br/>
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 ##Description

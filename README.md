@@ -27,8 +27,9 @@ Now you can:
 
 #Screenshots
 
-![French](https://raw.github.com/ludovicroland/tagPageAsTermsOfUse-wordpress/screenshot-1.jpg)
-![English](https://raw.github.com/ludovicroland/tagPageAsTermsOfUse-wordpress/screenshot-2.jpg)
+![French](https://raw.github.com/ludovicroland/tagPageAsTermsOfUse-wordpress/master/screenshot-1.jpg)
+
+![English](https://raw.github.com/ludovicroland/tagPageAsTermsOfUse-wordpress/master/screenshot-2.jpg)
 
 == Changelog ==
 

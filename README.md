@@ -23,7 +23,9 @@ Now you can:
 * define a page as the "terms of use" page of your blog
 * retrieve the page that has been tag with :
 
-    $pages = get_pages(array('meta_key' => TERMS_OF_USE_META_KEY));
+```php
+$pages = get_pages(array('meta_key' => TERMS_OF_USE_META_KEY));
+```
 
 #Screenshots
 

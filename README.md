@@ -1,4 +1,4 @@
-#Tag Page As Terms Of Use Name
+#Tag Page As Terms Of Use
 
 Contributors: ludovicroland
 Tags: terms of use

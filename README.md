@@ -1,4 +1,4 @@
-#Tag Page As Terms Of Use
+#Tag Page As Terms Of Use for Wordpress
 
 Contributors: ludovicroland ([http://www.rolandl.fr](http://www.rolandl.fr))<br/>
 Requires at least: 4.0<br/>

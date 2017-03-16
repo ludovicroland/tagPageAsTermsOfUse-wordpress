@@ -1,4 +1,4 @@
-#Tag Page As Terms Of Use for Wordpress
+# Tag Page As Terms Of Use for Wordpress
 
 Contributors: ludovicroland ([http://www.rolandl.fr](http://www.rolandl.fr))<br/>
 Requires at least: 4.0<br/>
@@ -7,11 +7,11 @@ Stable tag: 0.1<br/>
 License: GNU GPL v2.0<br/>
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-##Description
+## Description
 
 Adds a meta box to the Edit Page page where you can tag a page as a "terms of use" page.
 
-##Installation
+## Installation
 
 * Download the plugin and uncompress it
 * Copy the entire directory in your plugin directory of your WordPress blog (/wp-content/plugins)
@@ -26,13 +26,13 @@ Now you can:
 $pages = get_pages(array('meta_key' => TERMS_OF_USE_META_KEY));
 ```
 
-#Screenshots
+# Screenshots
 
 ![French](https://raw.github.com/ludovicroland/tagPageAsTermsOfUse-wordpress/master/screenshot-1.jpg)
 
 ![English](https://raw.github.com/ludovicroland/tagPageAsTermsOfUse-wordpress/master/screenshot-2.jpg)
 
-##Changelog
+## Changelog
 
-###0.1
+### 0.1
 * first version
